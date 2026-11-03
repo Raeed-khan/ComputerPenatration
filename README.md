@@ -68,7 +68,7 @@
 
 ---
 
-<!-- ==================== AUTHOR HOLOGRAM ==================== -->
+<!-- ==================== AUTHOR & DIVISIONS (REDESIGNED PRO TABLE) ==================== -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60">
   LEAD ARCHITECT
@@ -77,44 +77,40 @@
 
 <div align="center">
 
-<table>
+<table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 0 auto;">
 <tr>
-<td align="center" width="50%" style="border: 2px solid #00FF41; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%);">
-
-<h2>🧑‍💻 RAEED KHAN</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=RHCSA+CERTIFIED;+LEAD+ARCHITECT;+CYBERWING.PK;+BBA+UNIVERSITY+OF+BUNER;+FULL+STACK+HACKER" alt="Typing" />
-
-<br/>
-
-<a href="#"><img src="https://img.shields.io/badge/RHCSA-Certified-green?style=flat-square&logo=redhat&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/BBA-UOB-orange?style=flat-square&logo=graduation-cap&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Location-Pakistan_🇵🇰-darkgreen?style=flat-square" /></a>
-
-<br/><br/>
-
-<b>🎯 Cybersecurity Researcher | 🛡️ Ethical Hacker | 🔥 Tool Builder</b>
-
+<!-- Author Box -->
+<td align="center" width="50%" style="border: 2px solid #00FF41; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0D1117 0%, #0a2a1a 100%); box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);">
+  <h2 style="color: #00FF41; margin-bottom: 5px;">👨‍💻 RAEED KHAN</h2>
+  <p style="color: #FFD700; font-weight: bold; margin-top: 0;">Founder & Lead Architect</p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=350&lines=RHCSA+CERTIFIED;+CYBERWING.PK;+BBA+UNIVERSITY+OF+BUNER;+FULL+STACK+HACKER" alt="Typing" />
+  
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/RHCSA-Certified-success?style=flat-square&logo=redhat&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BBA-UOB-orange?style=flat-square&logo=graduation-cap&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/🇵🇰_Pakistan-Location-darkgreen?style=flat-square" /></a>
+  
+  <br/><br/>
+  <p style="color: #FFFFFF;"><b>🎯 Researcher | 🛡️ Ethical Hacker | 🔥 Tool Builder</b></p>
 </td>
-<td align="center" width="50%" style="border: 2px solid #FF0080; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #2e1a1a 100%);">
 
-<h2>🎯 DIVISIONS</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=400&lines=BLUE+TEAM+-+DEFENSE;+RED+TEAM+-+OFFENSE;+CEH+-+CERTIFIED;+ZERO+TRUST+ARCHITECTURE;+THREAT+HUNTING" alt="Typing" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/🔵_BLUE_TEAM-DEFENSE-0080FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔴_RED_TEAM-OFFENSE-DC143C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎯_CEH-CERTIFIED-FFD700?style=for-the-badge" />
-
-<br/><br/>
-
-<b>🏢 CyberWing.PK | 🛡️ Defending Digital World</b>
-
+<!-- Divisions Box -->
+<td align="center" width="50%" style="border: 2px solid #FF0080; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #0D1117 0%, #2a0a1a 100%); box-shadow: 0 0 20px rgba(255, 0, 128, 0.3);">
+  <h2 style="color: #FF0080; margin-bottom: 5px;">🏢 CYBERWING.PK</h2>
+  <p style="color: #FFD700; font-weight: bold; margin-top: 0;">Official Divisions</p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=350&lines=BLUE+TEAM+-+DEFENSE;+RED+TEAM+-+OFFENSE;+CEH+-+CERTIFIED;+THREAT+HUNTING" alt="Typing" />
+  
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🔵_BLUE_TEAM-DEFENSE-0080FF?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/🔴_RED_TEAM-OFFENSE-DC143C?style=for-the-badge&logo=crosshairs" />
+  <img src="https://img.shields.io/badge/🎯_CEH-CERTIFIED-FFD700?style=for-the-badge&logo=target" />
+  
+  <br/><br/>
+  <p style="color: #FFFFFF;"><b>🛡️ Defending the Digital World</b></p>
 </td>
 </tr>
 </table>
 
 </div>
-
