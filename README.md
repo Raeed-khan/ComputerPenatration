@@ -1,10 +1,10 @@
 <!-- ====================================================================
      ██████╗       █████╗ ████████╗████████╗ █████╗  ██████╗██╗  ██╗
      ██╔══██╗     ██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-     ██████╔╝     ███████║    ██║      ██║   ███████║██║     █████╔╝ 
-     ██╔══██╗     ██╔══██║    ██║      ██║   ██╔══██║██║     ██╔═██╗ 
-     ██║  ██║     ██║  ██║    ██║      ██║   ██║  ██║╚██████╗██║  ██╗
-     ╚═╝  ╚═╝     ╚═╝  ╚═╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+     ██████╔╝     ███████║   ██║      ██║   ███████║██║     █████╔╝
+     ██╔══██╗     ██╔══██║   ██║      ██║   ██╔══██║██║     ██╔═██╗
+     ██║  ██║     ██║  ██║   ██║      ██║   ██║  ██║╚██████╗██║  ██╗
+     ╚═╝  ╚═╝     ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
                     ULTRA PRO MAX EDITION
      ==================================================================== -->
 
@@ -63,9 +63,7 @@
 
 <h3>⚡ CYBERSECURITY • ETHICAL HACKING • PENETRATION TESTING ⚡</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b18,100:00FF41&height=200&section=header&text=RAEED%20KHAN&fontSize=45&fontColor=00FF41&fontAlignY=40&desc=CYBERSECURITY%20RESEARCHER%20%7C%20ETHICAL%20HACKER&descSize=15&descColor=ffffff&animation=fadeIn" width="100%" />
-
-<br/>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Security+System...;Exploring+the+Digital+World...;Building+Tools+%26+Security+Solutions...;Think+Like+An+Attacker.+Defend+Like+A+Professional." />
 
@@ -73,64 +71,37 @@
 
 ---
 
-<!-- ================= PROFILE CARDS ================= -->
+<!-- ================= PROFILE CARDS (CENTERED & SEAMLESS) ================= -->
 
 <div align="center">
 
-<table>
+<h2 style="color:#00FF41;">👨‍💻 THE ARCHITECT 👨‍💻</h2>
+
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%" valign="top" style="border: none;">
 
-<h2>👨‍💻 RAEED KHAN</h2>
+<h3 style="color:#00FF41; margin-bottom: 0;">RAEED KHAN</h3>
+<p style="color:#FFD700; font-weight: bold; margin-top: 5px;">Founder & Lead Architect</p>
 
-<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20RESEARCHER-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-FF0000?style=for-the-badge&logo=redhat&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/BBA-UNIVERSITY_OF_BUNER-0078D4?style=for-the-badge&logo=academia&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN_🇵🇰-006400?style=for-the-badge&logo=googlemaps&logoColor=white" /><br/><br/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-red?style=flat-square&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/BBA-UNIVERSITY%20OF%20BUNER-blue?style=flat-square" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-green?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-**🎯 Cybersecurity Researcher**
-
-**🛡️ Ethical Hacker**
-
-**⚡ Security Tool Developer**
-
-**💻 Linux & Network Enthusiast**
+<b>🎯 Researcher | 🛡️ Ethical Hacker | 🔥 Tool Builder</b>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%" valign="top" style="border: none;">
 
-<h2>🏢 CYBERWING.PK</h2>
+<h3 style="color:#FF0080; margin-bottom: 0;">CYBERWING.PK</h3>
+<p style="color:#FFD700; font-weight: bold; margin-top: 5px;">Official Security Divisions</p>
 
-<img src="https://img.shields.io/badge/CYBERWING-SECURITY%20COMMUNITY-FF0080?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/BLUE_TEAM-DEFENSE-0080FF?style=for-the-badge&logo=shield&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/RED_TEAM-OFFENSE-DC143C?style=for-the-badge&logo=crosshairs&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/CEH_CERTIFIED-ETHICAL_HACKING-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" /><br/><br/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSE-0080FF?style=flat-square" />
-<img src="https://img.shields.io/badge/RED%20TEAM-OFFENSE-DC143C?style=flat-square" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/CEH-ETHICAL%20HACKING-FFD700?style=flat-square" />
-<img src="https://img.shields.io/badge/ZERO%20TRUST-SECURITY-00FF41?style=flat-square" />
-
-<br/><br/>
-
-**🔵 Defensive Security**
-
-**🔴 Offensive Security**
-
-**🎯 Threat Hunting**
-
-**🛡️ Digital Protection**
+<b>🔵 Defensive | 🔴 Offensive | 🎯 Threat Hunting</b>
 
 </td>
 </tr>
@@ -146,17 +117,49 @@
 
 <h2>⚔️ MY CYBER MISSION</h2>
 
-<img src="https://img.shields.io/badge/LEARN-EXPLORE-00FF41?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-INNOVATE-FF0080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PROTECT-DEFEND-0080FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEARN-EXPLORE-00FF41?style=for-the-badge&logo=bookstack&logoColor=black" />
+<img src="https://img.shields.io/badge/BUILD-INNOVATE-FF0080?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/PROTECT-DEFEND-0080FF?style=for-the-badge&logo=security&logoColor=white" />
 
-<p>
-Dedicated to exploring cybersecurity, developing practical security tools,
-and contributing to a safer digital world.
-</p>
+<br/><br/>
+
+<p><i>Dedicated to exploring cybersecurity, developing practical security tools, and contributing to a safer digital world.</i></p>
 
 <h3>💻 THINK • CODE • SECURE • INNOVATE</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:050505&height=100&section=footer" width="100%" />
+</div>
+
+---
+
+<!-- ==================== LEGAL WARNING ==================== -->
+<div align="center">
+
+<h1>
+  ⚠️ LEGAL DISCLAIMER ⚠️
+</h1>
+
+</div>
+
+> [!WARNING]
+> **FOR EDUCATIONAL PURPOSES ONLY**
+> UNAUTHORIZED ACCESS IS PROHIBITED
+> USE RESPONSIBLY & STAY ETHICAL
+> **Pakistan PECA 2016 | Penalty: 3 Months to 7 Years**
+
+<div align="center">
+
+<h3>✅ By using this tool, you agree to:</h3>
+
+| ✅ | Agreement |
+|:---:|:---|
+| ✅ | Only test on **your own systems** |
+| ✅ | Get **written permission** before testing |
+| ✅ | Use for **educational purposes** |
+| ✅ | **Never** use for malicious intent |
+| ✅ | **Report** vulnerabilities responsibly |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:050505&height=120&section=footer&text=Stay%20Safe!&fontSize=40&fontColor=ffffff" width="100%" />
 
 </div>
