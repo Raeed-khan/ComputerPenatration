@@ -55,9 +55,7 @@
 
 <!-- ==================== AUTHOR HOLOGRAM ==================== -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60">
-  LEAD ARCHITECT
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60">
+  👨‍💻 HACKER / LEAD ARCHITECT 👨‍💻
 </h1>
 
 <div align="center">
@@ -66,7 +64,7 @@
 <tr>
 <td align="center" width="50%">
 
-<h2>🧑‍💻 RAEED KHAN</h2>
+<h2>👨‍💻 RAEED KHAN</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=RHCSA+CERTIFIED;+LEAD+ARCHITECT;+CYBERWING.PK;+BBA+UNIVERSITY+OF+BUNER;+FULL+STACK+HACKER" alt="Typing" />
 
@@ -109,3 +107,24 @@
 <div align="center">
 
 <h2>🐱 THE GUARDIAN</h2>
+
+```ascii
+                    ╔══════════════════════════════════════════╗
+                    ║                                          ║
+                    ║          ,     ,                         ║
+                    ║         |\---/|                          ║
+                    ║        /  , , |                          ║
+                    ║   __.-'|  / \ /                          ║
+                    ║  /     |        ._O|                     ║
+                    ║ /  '   |   :      _/                     ║
+                    ║:  ;    |   .     |                       ║
+                    ║|  |    |   :    /                        ║
+                    ║|  :    |  /'--'| \                       ║
+                    ║ \  |\  | |     | /|                      ║
+                    ║  '.'| /  ||     || \                     ║
+                    ║  | /|.'  '.l   \\_                       ║
+                    ║  || ||          '-'                      ║
+                    ║  '-''-'                                  ║
+                    ║                                          ║
+                    ║   "Silence is the loudest attack"        ║
+                    ╚══════════════════════════════════════════╝
