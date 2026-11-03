@@ -69,16 +69,62 @@
 ---
 
 <!-- ==================== AUTHOR HOLOGRAM ==================== -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60">
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45">
   LEAD ARCHITECT
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60">
-</h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45">
+</h2>
+
+<br/>
 
 <div align="center">
+<table width="100%" style="border: none;">
+<tr>
+<td align="center" width="50%" style="border: 2px solid #00FF41; border-radius: 12px; padding: 20px; background-color: #0d1117;">
 
-| 🧑‍💻 **RAEED KHAN** | 🏢 **CYBERWING.PK** |
-| :---: | :---: |
-| <br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=350&lines=RHCSA+CERTIFIED;+LEAD+ARCHITECT;+BBA+UNIVERSITY+OF+BUNER;+FULL+STACK+HACKER" alt="Typing" /><br><br>[![RHCSA](https://img.shields.io/badge/RHCSA-Certified-green?style=flat-square&logo=redhat&logoColor=white)](#) <br>[![BBA](https://img.shields.io/badge/BBA-UOB-orange?style=flat-square&logo=graduation-cap&logoColor=white)](#) <br>[![Location](https://img.shields.io/badge/Location-Pakistan_🇵🇰-darkgreen?style=flat-square)](#)<br><br>🎯 **Cybersecurity Researcher** <br> 🛡️ **Ethical Hacker** <br> 🔥 **Tool Builder** | <br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=350&lines=BLUE+TEAM+-+DEFENSE;+RED+TEAM+-+OFFENSE;+CEH+-+CERTIFIED;+ZERO+TRUST+ARCHITECTURE;+THREAT+HUNTING" alt="Typing" /><br><br>[![BLUE TEAM](https://img.shields.io/badge/🔵_BLUE_TEAM-DEFENSE-0080FF?style=flat-square)](#) <br>[![RED TEAM](https://img.shields.io/badge/🔴_RED_TEAM-OFFENSE-DC143C?style=flat-square)](#) <br>[![CEH](https://img.shields.io/badge/🎯_CEH-CERTIFIED-FFD700?style=flat-square)](#)<br><br>🛡️ **Defending Digital World** <br>⚡ **Offensive & Defensive Security** |
+<h3>🧑‍💻 RAEED KHAN</h3>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=350&lines=RHCSA+CERTIFIED;+LEAD+ARCHITECT;+BBA+UNIVERSITY+OF+BUNER;+FULL+STACK+HACKER" alt="Typing" />
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/RHCSA-Certified-green?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/BBA-UOB-orange?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pakistan_🇵🇰-darkgreen?style=flat-square" />
+</p>
+
+<br/>
+
+<p align="left">
+  &nbsp;&nbsp;🎯 <b>Cybersecurity Researcher</b><br>
+  &nbsp;&nbsp;🛡️ <b>Ethical Hacker</b><br>
+  &nbsp;&nbsp;🔥 <b>Tool Builder</b>
+</p>
+
+</td>
+<td align="center" width="50%" style="border: 2px solid #FF0080; border-radius: 12px; padding: 20px; background-color: #0d1117;">
+
+<h3>🏢 CYBERWING.PK</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=350&lines=BLUE+TEAM+-+DEFENSE;+RED+TEAM+-+OFFENSE;+CEH+-+CERTIFIED;+ZERO+TRUST+ARCHITECTURE;+THREAT+HUNTING" alt="Typing" />
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/🔵_BLUE_TEAM-DEFENSE-0080FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔴_RED_TEAM-OFFENSE-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯_CEH-CERTIFIED-FFD700?style=flat-square" />
+</p>
+
+<br/>
+
+<p align="left">
+  &nbsp;&nbsp;🛡️ <b>Defending Digital World</b><br>
+  &nbsp;&nbsp;⚡ <b>Offensive & Defensive Security</b>
+</p>
+
+</td>
+</tr>
+</table>
 </div>
