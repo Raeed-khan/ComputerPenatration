@@ -51,72 +51,112 @@
 
 ---
 
-<!-- ==================== WELCOME MATRIX ==================== -->
+<!-- ================= MATRIX WELCOME ================= -->
+
 <div align="center">
 
-<!-- Glowing 3D Text -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" />
+
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  <span style="color: #00FF41;">WELCOME TO THE MATRIX</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <span style="color:#00FF41;">WELCOME TO THE MATRIX</span>
 </h1>
 
-<!-- Professional Security Banner (Replaced JS GIF) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=footer&text=CYBERSECURITY%20%26%20PENETRATION%20TESTING&fontSize=28&fontColor=FF0080&animation=fadeIn&fontAlignY=55" width="100%" />
+<h3>⚡ CYBERSECURITY • ETHICAL HACKING • PENETRATION TESTING ⚡</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b18,100:00FF41&height=200&section=header&text=RAEED%20KHAN&fontSize=45&fontColor=00FF41&fontAlignY=40&desc=CYBERSECURITY%20RESEARCHER%20%7C%20ETHICAL%20HACKER&descSize=15&descColor=ffffff&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Security+System...;Exploring+the+Digital+World...;Building+Tools+%26+Security+Solutions...;Think+Like+An+Attacker.+Defend+Like+A+Professional." />
 
 </div>
 
 ---
 
-<!-- ==================== AUTHOR & ORGANIZATION ==================== -->
+<!-- ================= PROFILE CARDS ================= -->
+
 <div align="center">
-<table width="100%" style="border: none;">
+
+<table>
 <tr>
-<td align="center" width="50%" style="border: 2px solid #00FF41; border-radius: 12px; padding: 25px; background-color: #0d1117;">
+<td width="50%" align="center">
 
-<h3>🧑‍💻 RAEED KHAN</h3>
+<h2>👨‍💻 RAEED KHAN</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=280&lines=RHCSA+CERTIFIED;+LEAD+ARCHITECT;+BBA+UOB;+FULL+STACK+HACKER" alt="Typing" />
-</p>
+<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20RESEARCHER-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RHCSA-Certified-green?style=flat-square&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/BBA-UOB-orange?style=flat-square&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pakistan_🇵🇰-darkgreen?style=flat-square" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-red?style=flat-square&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/BBA-UNIVERSITY%20OF%20BUNER-blue?style=flat-square" />
 
 <br/>
 
-<div align="left" style="display: inline-block;">
-  🎯 <b>Cybersecurity Researcher</b><br><br>
-  🛡️ <b>Ethical Hacker</b><br><br>
-  🔥 <b>Tool Builder</b>
-</div>
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-green?style=flat-square&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
+
+**🎯 Cybersecurity Researcher**
+
+**🛡️ Ethical Hacker**
+
+**⚡ Security Tool Developer**
+
+**💻 Linux & Network Enthusiast**
 
 </td>
-<td align="center" width="50%" style="border: 2px solid #FF0080; border-radius: 12px; padding: 25px; background-color: #0d1117;">
 
-<h3>🏢 CYBERWING.PK</h3>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=280&lines=BLUE+TEAM+-+DEFENSE;+RED+TEAM+-+OFFENSE;+CEH+-+CERTIFIED;+ZERO+TRUST;+THREAT+HUNTING" alt="Typing" />
-</p>
+<h2>🏢 CYBERWING.PK</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔵_BLUE_TEAM-DEFENSE-0080FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔴_RED_TEAM-OFFENSE-DC143C?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎯_CEH-CERTIFIED-FFD700?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/CYBERWING-SECURITY%20COMMUNITY-FF0080?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSE-0080FF?style=flat-square" />
+<img src="https://img.shields.io/badge/RED%20TEAM-OFFENSE-DC143C?style=flat-square" />
 
 <br/>
 
-<div align="left" style="display: inline-block;">
-  🛡️ <b>Defending Digital World</b><br><br>
-  ⚡ <b>Offensive & Defensive Security</b>
-</div>
+<img src="https://img.shields.io/badge/CEH-ETHICAL%20HACKING-FFD700?style=flat-square" />
+<img src="https://img.shields.io/badge/ZERO%20TRUST-SECURITY-00FF41?style=flat-square" />
+
+<br/><br/>
+
+**🔵 Defensive Security**
+
+**🔴 Offensive Security**
+
+**🎯 Threat Hunting**
+
+**🛡️ Digital Protection**
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<!-- ================= CYBER MISSION ================= -->
+
+<div align="center">
+
+<h2>⚔️ MY CYBER MISSION</h2>
+
+<img src="https://img.shields.io/badge/LEARN-EXPLORE-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-INNOVATE-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROTECT-DEFEND-0080FF?style=for-the-badge" />
+
+<p>
+Dedicated to exploring cybersecurity, developing practical security tools,
+and contributing to a safer digital world.
+</p>
+
+<h3>💻 THINK • CODE • SECURE • INNOVATE</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:050505&height=100&section=footer" width="100%" />
+
 </div>
