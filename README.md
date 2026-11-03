@@ -61,22 +61,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
 
-<!-- Matrix Code Rain -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="120" />
+<!-- Professional Security Banner (Replaced JS GIF) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=footer&text=CYBERSECURITY%20%26%20PENETRATION%20TESTING&fontSize=28&fontColor=FF0080&animation=fadeIn&fontAlignY=55" width="100%" />
 
 </div>
 
 ---
 
-<!-- ==================== AUTHOR HOLOGRAM ==================== -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45">
-  LEAD ARCHITECT
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45">
-</h2>
-
-<br/>
-
+<!-- ==================== AUTHOR & ORGANIZATION ==================== -->
 <div align="center">
 <table width="100%" style="border: none;">
 <tr>
