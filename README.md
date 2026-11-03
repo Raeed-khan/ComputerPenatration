@@ -1,162 +1,124 @@
-<!-- ====================================================================
-     ██████╗       █████╗ ████████╗████████╗ █████╗  ██████╗██╗  ██╗
-     ██╔══██╗     ██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-     ██████╔╝     ███████║    ██║      ██║   ███████║██║     █████╔╝ 
-     ██╔══██╗     ██╔══██║    ██║      ██║   ██╔══██║██║     ██╔═██╗ 
-     ██║  ██║     ██║  ██║    ██║      ██║   ██║  ██║╚██████╗██║  ██╗
-     ╚═╝  ╚═╝     ╚═╝  ╚═╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-                    ULTRA PRO MAX EDITION
-     ==================================================================== -->
+<!-- ==========================================================
+     R-ATTACK-NET | ULTRA 3D MATRIX EDITION
+     DEVELOPED BY RAEED KHAN
+     ========================================================== -->
 
-<!-- ==================== COSMIC HEADER ==================== -->
 <div align="center">
 
-<!-- Animated Galaxy Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00FF41,100:FF0080&height=300&section=header&text=R-ATTACK-NET&fontSize=120&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=Ultimate%20Network%20Penetration%20Suite&descAlignY=65&descSize=25" width="100%" />
+<!-- 3D CYBER HERO HEADER -->
 
-<!-- Matrix Rain Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,25:001a0a,50:00FF41,75:101010,100:FF0080&text=R-ATTACK-NET&fontSize=90&fontColor=00FF41&stroke=00FF41&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=THE%20NEXT%20GENERATION%20OF%20NETWORK%20SECURITY&descSize=18&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <br/>
 
-<!-- Holographic Badge Row -->
-<a href="https://github.com/Raeed-khan/Advance-PT">
-  <img src="https://img.shields.io/badge/⚡_VERSION-v3.0_ULTRA-00FF41?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=00FF41" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🔥_STATUS-ACTIVE-FF0080?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=FF0080" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🛡️_SECURITY-MAXIMUM-0080FF?style=for-the-badge&labelColor=000000&logo=shield&logoColor=0080FF" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/⭐_STARS-∞-FFD700?style=for-the-badge&labelColor=000000&logo=starship&logoColor=FFD700" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+R-ATTACK-NET...;%3E+ADVANCED+NETWORK+SECURITY;%3E+PENETRATION+TESTING+RESEARCH;%3E+ENGINEERED+BY+RAEED+KHAN" />
 
 <br/><br/>
 
-<!-- 3D Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=%E2%9A%A1+ULTRA+PRO+MAX+EDITION+%E2%9A%A1;%F0%9F%94%A5+THE+MOST+POWERFUL+PENTEST+SUITE+%F0%9F%94%A5;%F0%9F%9A%80+BUILT+WITH+PASSION+BY+RAEED+KHAN+%F0%9F%9A%80;%F0%9F%9B%A1%EF%B8%8F+STAY+ETHICAL+%7C+STAY+SAFE+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
+<!-- HOLOGRAPHIC BADGES -->
 
-</div>
-
-<br/>
-
-<!-- ==================== NEON DIVIDER ==================== -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3" />
-</div>
-
----
-
-<!-- ================= MATRIX WELCOME ================= -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" />
-
-<h1>
-  <span style="color:#00FF41;">WELCOME TO THE MATRIX</span>
-</h1>
-
-<h3>⚡ CYBERSECURITY • ETHICAL HACKING • PENETRATION TESTING ⚡</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b18,100:00FF41&height=200&section=header&text=RAEED%20KHAN&fontSize=45&fontColor=00FF41&fontAlignY=40&desc=CYBERSECURITY%20RESEARCHER%20%7C%20ETHICAL%20HACKER&descSize=15&descColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://img.shields.io/badge/⚡_EDITION-ULTRA_3D-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🚀_VERSION-3.0-FF0080?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🛡️_DOMAIN-CYBERSECURITY-0080FF?style=for-the-badge&labelColor=050505"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Security+System...;Exploring+the+Digital+World...;Building+Tools+%26+Security+Solutions...;Think+Like+An+Attacker.+Defend+Like+A+Professional." />
+<img src="https://img.shields.io/badge/DEVELOPER-RAEED%20KHAN-00FF41?style=flat-square"/>
+<img src="https://img.shields.io/badge/RESEARCH-ETHICAL%20HACKING-FF0080?style=flat-square"/>
+<img src="https://img.shields.io/badge/PLATFORM-LINUX-FFFFFF?style=flat-square&logo=linux&logoColor=black"/>
 
 </div>
 
 ---
 
-<!-- ================= PROFILE CARDS ================= -->
+<!-- 3D MATRIX SEPARATOR -->
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h2>👨‍💻 RAEED KHAN</h2>
-
-<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20RESEARCHER-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-red?style=flat-square&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/BBA-UNIVERSITY%20OF%20BUNER-blue?style=flat-square" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-green?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-**🎯 Cybersecurity Researcher**
-
-**🛡️ Ethical Hacker**
-
-**⚡ Security Tool Developer**
-
-**💻 Linux & Network Enthusiast**
-
-</td>
-
-<td width="50%" align="center">
-
-<h2>🏢 CYBERWING.PK</h2>
-
-<img src="https://img.shields.io/badge/CYBERWING-SECURITY%20COMMUNITY-FF0080?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BLUE%20TEAM-DEFENSE-0080FF?style=flat-square" />
-<img src="https://img.shields.io/badge/RED%20TEAM-OFFENSE-DC143C?style=flat-square" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/CEH-ETHICAL%20HACKING-FFD700?style=flat-square" />
-<img src="https://img.shields.io/badge/ZERO%20TRUST-SECURITY-00FF41?style=flat-square" />
-
-<br/><br/>
-
-**🔵 Defensive Security**
-
-**🔴 Offensive Security**
-
-**🎯 Threat Hunting**
-
-**🛡️ Digital Protection**
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 </div>
 
----
-
-<!-- ================= CYBER MISSION ================= -->
+## ◈ WELCOME TO THE CYBER WORLD
 
 <div align="center">
 
-<h2>⚔️ MY CYBER MISSION</h2>
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="150"/>
 
-<img src="https://img.shields.io/badge/LEARN-EXPLORE-00FF41?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-INNOVATE-FF0080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PROTECT-DEFEND-0080FF?style=for-the-badge" />
+### `THINK BEYOND LIMITS. SECURE THE DIGITAL WORLD.`
 
-<p>
-Dedicated to exploring cybersecurity, developing practical security tools,
-and contributing to a safer digital world.
-</p>
+</div>
 
-<h3>💻 THINK • CODE • SECURE • INNOVATE</h3>
+## ◈ DEVELOPER IDENTITY
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:050505&height=100&section=footer" width="100%" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/RAEED%20KHAN-LEAD%20DEVELOPER-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RHCSA-CERTIFIED-red?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/BBA-UNIVERSITY%20OF%20BUNER-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PAKISTAN-🇵🇰-green?style=for-the-badge"/>
+
+<br/><br/>
+
+**CYBERSECURITY RESEARCHER**
+
+**ETHICAL HACKER**
+
+**NETWORK SECURITY ENTHUSIAST**
+
+**SECURITY TOOL DEVELOPER**
+
+</div>
+
+## ◈ CYBERWING.PK
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CYBERWING.PK-CYBER%20SECURITY%20COMMUNITY-FF0080?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔵_BLUE_TEAM-DEFENSE-0080FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔴_RED_TEAM-OFFENSE-DC143C?style=for-the-badge"/>
+
+<br/><br/>
+
+`DEFENSIVE SECURITY` • `OFFENSIVE SECURITY` • `THREAT RESEARCH`
+
+</div>
+
+## ◈ CYBER RESEARCH AREAS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PENETRATION%20TESTING-FF0080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX%20SECURITY-0080FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETHICAL%20HACKING-FFD700?style=for-the-badge"/>
+
+</div>
+
+## ◈ DEVELOPER'S PHILOSOPHY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=FF0080&center=true&vCenter=true&width=700&lines=CODE+WITH+PURPOSE.;RESEARCH+WITH+PASSION.;BUILD+WITH+INNOVATION.;DEFEND+WITH+KNOWLEDGE."/>
+
+</div>
+
+## ◈ ETHICAL SECURITY NOTICE
+
+This project is designed for educational cybersecurity research and authorized security testing. Always obtain permission before testing networks, devices, or systems.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,50:050505,100:00FF41&height=180&section=footer&text=RAEED%20KHAN&fontSize=55&fontColor=00FF41&animation=twinkling&fontAlignY=45&desc=ENGINEERING%20THE%20FUTURE%20OF%20CYBERSECURITY&descSize=14&descColor=FFFFFF&descAlignY=70" width="100%"/>
+
+**⚡ BUILT WITH PASSION | POWERED BY KNOWLEDGE ⚡**
 
 </div>
