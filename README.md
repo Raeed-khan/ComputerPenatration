@@ -51,17 +51,24 @@
 
 ---
 
-<!-- ================= MATRIX WELCOME ================= -->
+<!-- ================= MATRIX WELCOME | NEW 3D DESIGN ================= -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:001A08,50:00FF41,75:003B18,100:000000&height=260&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontSize=48&fontColor=00FF41&fontAlignY=42&animation=twinkling&stroke=00FF41&strokeWidth=2&desc=ENTER%20THE%20WORLD%20OF%20CYBERSECURITY&descSize=17&descColor=FFFFFF&descAlignY=68" width="100%" />
 
-<h1>
-  <span style="color:#00FF41;">WELCOME TO THE MATRIX</span>
-</h1>
+<br/>
 
-<h3>⚡ CYBERSECURITY • ETHICAL HACKING • PENETRATION TESTING ⚡</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=%E2%9A%A1+CYBERSECURITY+%E2%80%A2+ETHICAL+HACKING;%F0%9F%94%A5+PENETRATION+TESTING;%F0%9F%9B%A1%EF%B8%8F+NETWORK+SECURITY+RESEARCH;%F0%9F%92%BB+THINK+LIKE+AN+ATTACKER" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_ENTER-THE_MATRIX-00FF41?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/🛡️_STAY-ETHICAL-FF0080?style=for-the-badge&labelColor=050505" />
+
+<br/><br/>
+
+<!-- ORIGINAL RAEED KHAN BANNER - UNCHANGED -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b18,100:00FF41&height=200&section=header&text=RAEED%20KHAN&fontSize=45&fontColor=00FF41&fontAlignY=40&desc=CYBERSECURITY%20RESEARCHER%20%7C%20ETHICAL%20HACKER&descSize=15&descColor=ffffff&animation=fadeIn" width="100%" />
 
@@ -106,7 +113,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <h2>🏢 CYBERWING.PK</h2>
 
